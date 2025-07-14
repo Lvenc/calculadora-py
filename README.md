@@ -2,14 +2,6 @@
 
 Este é um projeto de uma **calculadora gráfica feita com Python** usando a biblioteca **Tkinter**, que simula uma calculadora moderna com layout escuro, funções básicas e operações com porcentagem, parênteses e operadores.
 
-## 📷 Interface
-![Tela da Calculadora](img/calculadora.png)
-
-
-
-
-
-
 ## 💡 Funcionalidades
 
 - Operações básicas: `+`, `-`, `×`, `÷`
